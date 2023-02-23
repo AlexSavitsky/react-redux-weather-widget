@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-redux-weather-widget/static/css/main.1a52b41d.css",
+    "main.js": "/react-redux-weather-widget/static/js/main.8cbe28ae.js",
+    "static/media/dust.mp4": "/react-redux-weather-widget/static/media/dust.257c3cc0f97ce5f5fd1f.mp4",
+    "static/media/clear.mp4": "/react-redux-weather-widget/static/media/clear.70c33eaf3c5b39642832.mp4",
+    "static/media/rain.mp4": "/react-redux-weather-widget/static/media/rain.bd96c7ee521bc299e9ce.mp4",
+    "static/media/tornado.mp4": "/react-redux-weather-widget/static/media/tornado.d0922cc20e64215f0823.mp4",
+    "static/media/snow.mp4": "/react-redux-weather-widget/static/media/snow.3ac84c6da0b91ac0d1f1.mp4",
+    "static/media/drizzle.mp4": "/react-redux-weather-widget/static/media/drizzle.3a559f4ec83aef568135.mp4",
+    "static/media/fog.mp4": "/react-redux-weather-widget/static/media/fog.2bbe8f1f2e467c702c02.mp4",
+    "static/media/storm.mp4": "/react-redux-weather-widget/static/media/storm.74a9dd096492ae752a05.mp4",
+    "static/media/background.png": "/react-redux-weather-widget/static/media/background.21614730b9030c80a225.png",
+    "static/media/cloud.mp4": "/react-redux-weather-widget/static/media/cloud.07ab60f759216bf783c7.mp4",
+    "index.html": "/react-redux-weather-widget/index.html",
+    "main.1a52b41d.css.map": "/react-redux-weather-widget/static/css/main.1a52b41d.css.map",
+    "main.8cbe28ae.js.map": "/react-redux-weather-widget/static/js/main.8cbe28ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a52b41d.css",
+    "static/js/main.8cbe28ae.js"
+  ]
+}
