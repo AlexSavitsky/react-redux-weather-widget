@@ -21,9 +21,9 @@ function App() {
   }, [query, units]);
 
   return (
-    <div className="mx-auto max-w-screen-md overflow-hidden relative bg-gradient-to-br from-cyan-700 to-blue-700 h-fit shadow-xl stroke-gray-400">
+    <div className="mx-auto max-w-screen-sm sm:w-full overflow-hidden relative bg-gradient-to-br from-cyan-700 to-blue-700 h-fit shadow-xl stroke-gray-400">
       <BgTimelaps />
-      <div className=" py-5 px-32 sticky">
+      <div className=" py-5 px-5 sm:px-20 sticky">
         <TopButtons />
         <SearchBar />
         <ErrorBoundary>
